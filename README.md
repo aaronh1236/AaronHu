@@ -1,5 +1,5 @@
 # Aaron Hu resume portal
-### major projects in support of the Bachelors of Business Administration at California State Polytechnic University, Pomona, CA 
+### Major projects in support of the Bachelors of Business Administration at California State Polytechnic University, Pomona, CA 
 1. business intelligence for excel
 2. advanced analytics, Python/Pandas
 3. early stage data science experiencse
